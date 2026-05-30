@@ -63,19 +63,19 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kr555756-cell&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight))
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kr555756-cell&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight))
 
 ---
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/kr555756-cell
+- GitHub: https://github.com/KallaMahidhar 
 
 ---
 
